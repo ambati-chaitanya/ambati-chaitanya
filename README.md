@@ -8,7 +8,7 @@ I’m currently pursuing a Bachelor of Technology (B.Tech) in Computer Science a
 - 📊 Data Analytics
 - 🧠 Machine Learning
 - 🖥️ Python, SQL, and JavaScript
-- 📈 Data Visualization (Matplotlib, Seaborn, Tableau)
+- 📈 Data Visualization (Matplotlib, R, Matlab)
 - 🛠️ Problem-solving and algorithm development
 
 ## Current Endeavors
