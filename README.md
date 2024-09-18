@@ -19,4 +19,4 @@ I’m currently pursuing a Bachelor of Technology (B.Tech) in Computer Science a
 - 📧 Email: ambatichaitanya10@gmail.com
 
 ## Education
-- 🎓 B.Tech in Computer Science, VIT-AP University (Expected Passout: 2025)
+- 🎓 B.Tech in Computer Science, VIT-AP University (Passout: 2025)
