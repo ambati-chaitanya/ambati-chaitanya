@@ -15,7 +15,7 @@ I’m currently pursuing a Bachelor of Technology (B.Tech) in Computer Science a
 - 🌱 I’m currently working on projects related to data science and machine learning, focusing on the analysis and prediction of various real-world phenomena.
 
 ## Connect with Me
-- 📫 [LinkedIn Profile](https://www.linkedin.com/in/ambati-chaitanya-a42102253/)
+- 📫 [LinkedIn Profile](https://www.linkedin.com/in/sri-chaitanya-ambati-a42102253/)
 - 📧 Email: ambatichaitanya10@gmail.com
 
 ## Education
