@@ -7,7 +7,7 @@ I’m currently pursuing a Bachelor of Technology (B.Tech) in Computer Science a
 ## Skills and Interests
 - 📊 Data Analytics
 - 🧠 Machine Learning
-- 🖥️ Python, SQL, and JavaScript
+- 🖥️ Python, SQL, and R
 - 📈 Data Visualization (Matplotlib, R, Matlab)
 - 🛠️ Problem-solving and algorithm development
 
